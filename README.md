@@ -1,6 +1,7 @@
-# 💰 FinBot — AI Personal Finance Assistant (Streamlit)
+# 💰 FinBot — AI Personal Finance Assistant 
 
-> BSc Data Science Major Project | Streamlit + Claude AI (Anthropic)
+Finance Agent is an AI-powered conversational assistant designed to help users with finance-related queries and tasks. It leverages the Groq API for fast large language model inference, enabling quick and intelligent responses. The project uses a local SQLite database (finbot.db) to persist data such as chat history or financial records. It is built in Python and follows best practices like environment variable management via .env for secure API key storage. The agent is structured as a command-line or backend application, making it easy to extend with new financial tools or integrations. Overall, it serves as a smart financial assistant that combines AI capabilities with local data storage for a personalized experience.
+
 
 ---
 
@@ -123,4 +124,5 @@ Displayed on Streamlit UI
 
 ---
 
-*Made with ❤️ for BSc Data Science Major Project*
+*Made with ❤️ 
+Anii
